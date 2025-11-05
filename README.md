@@ -64,8 +64,8 @@ Sigue estos pasos para obtener una copia local del proyecto y ejecutar la demo:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/Past-Alex/POOU2.git](https://github.com/Past-Alex/POOU2.git)
-    cd POOU2
+    git clone https://github.com/Past-Alex/Deber_POOU2.git
+    cd poo_unidad1
     ```
 
 2.  **Importar en Eclipse (o tu IDE de Java preferido):**

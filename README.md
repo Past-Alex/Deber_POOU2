@@ -1,10 +1,10 @@
-# 🎬 Sistema de Gestión de Contenido Audiovisual (POO Java)
+# Sistema de Gestión de Contenido Audiovisual (POO Java)
 
 Este proyecto es una demostración práctica y robusta de la aplicación de los pilares de la **Programación Orientada a Objetos (POO)** en Java, modelando la gestión de diferentes tipos de contenido audiovisual y sus complejas relaciones.
 
 ---
 
-## 🎯 1. Objetivos y Propósito del Proyecto
+##  1. Objetivos y Propósito del Proyecto
 
 El objetivo principal de este proyecto es **demostrar la aplicación estructural de la POO** en un dominio complejo.
 
@@ -15,7 +15,7 @@ El objetivo principal de este proyecto es **demostrar la aplicación estructural
 
 ---
 
-## 🌟 2. Características y Funcionalidades Clave
+##  2. Características y Funcionalidades Clave
 
 El sistema implementa conceptos esenciales de POO para modelar el contenido y sus relaciones.
 
@@ -38,7 +38,7 @@ El sistema implementa conceptos esenciales de POO para modelar el contenido y su
 
 ---
 
-## 📊 3. Diagrama de Clases UML
+##  3. Diagrama de Clases UML
 
 Un diagrama de clases visualiza la estructura de las clases y sus relaciones (herencia, asociación, composición) .
 
@@ -58,7 +58,7 @@ Un diagrama de clases visualiza la estructura de las clases y sus relaciones (he
 
 ---
 
-## 🚀 5. Cómo Clonar y Ejecutar el Proyecto
+##  5. Cómo Clonar y Ejecutar el Proyecto
 
 Sigue estos pasos para obtener una copia local del proyecto y ejecutar la demo:
 
@@ -80,8 +80,3 @@ Sigue estos pasos para obtener una copia local del proyecto y ejecutar la demo:
 
 ---
 
-## 🤝 Contribuciones
-
-Si deseas contribuir a este proyecto, por favor sigue el flujo de trabajo estándar de GitHub (Fork, Branch, Commit, Pull Request).
-
-***
